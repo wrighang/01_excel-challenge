@@ -8,45 +8,50 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 # Requirements
 ## Conditional Formatting
 Apply conditional formatting to the following columns:
-Outcome
-Percent Funded
+- Outcome
+- Percent Funded
 
 ## Column Creation
 Create six new columns:
-Percent Funde
-Average Donation
-Category
-Sub-category
-Date Created (converted format)
-Date Ended (converted format)
+- Percent Funded
+- Average Donation
+- Category
+- Sub-category
+- Date Created (converted format)
+- Date Ended (converted format)
 
 ## Pivot Tables and Stacked Column Charts
 Create a pivot table showing counts of campaigns by outcome:
-Outcomes include: successful, failed, canceled, and live
-Grouped by: Category
+- Outcomes include: successful, failed, canceled, and live
+- Grouped by: Category
+
 Develop a stacked column chart based on this pivot table, with filtering capability by:
-Country
+- Country
 
 ## Pivot Tables and Line Graphs
 Generate a pivot table with the following structure:
-Rows: Date Created (converted format)
-Columns: Outcome
-Values: Count of Outcome
-Filters: Parent Category and Year
+- Rows: Date Created (converted format)
+- Columns: Outcome
+- Values: Count of Outcome
+- Filters: Parent Category and Year
+
 Create a line graph based on this pivot table.
 
 ## Written Report
 Provide a cohesive analysis including:
-Three conclusions drawn from the data
-Limitations of the dataset and suggestions for additional tables or graphs
+- Three conclusions drawn from the data
+- Limitations of the dataset and suggestions for additional tables or graphs
 
 ## Crowdfunding Goal Analysis
 Calculate the percentage of projects that were successful, failed, or canceled within each goal range.
+
 Create a line chart showing the relationship between:
-Goal Amount
-Probability of success, failure, or cancellation
+- Goal Amount
+- Probability of success, failure, or cancellation
 
 ## Statistical Analysis
 Using Excel formulas, calculate the following statistics:
-Mean, Median, Minimum, Maximum, Variance, and Standard Deviation
+- Mean, Median, Minimum, Maximum, Variance, and Standard Deviation
+
 Provide a brief justification of whether the mean or median better summarizes the data.
+
