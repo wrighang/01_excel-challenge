@@ -1,6 +1,8 @@
 # 01_excel-challenge
 
-Background
+[Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx)
+
+# Background
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
@@ -37,12 +39,12 @@ Create a new column named Date Created Conversion that converts the data in laun
 
 Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years. Now, create a pivot-chart line graph that visualizes this new table.
 
-Create a report in Microsoft Word, and answer the following questions:
+[Create a report in Microsoft Word](https://github.com/wrighang/01_excel-challenge/blob/main/Cowfunding_AngelinaW.docx) , and answer the following questions:
 - What are three conclusions that we can draw about crowdfunding campaigns?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-### Crowdfunding Goal Analysis
+[Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx):
 
 Create a new sheet with 8 columns:
 - Goal
@@ -88,10 +90,11 @@ Create a new worksheet in your workbook with two columns: one for the number of 
 - Variance of the number of backers
 - Standard deviation of the number of backers
 
-Use your data to determine whether the mean or the median better summarizes the data.
+**Use your data to determine whether the mean or the median better summarizes the data.** <br>
+- *The median better summarizes the data to represent the typical number of backers for both successful and failed campaigns. It provides a better representation of the typical number of backers versus the average, or mean,  which could be skewed by a large number of backers on a given day.*
 
-Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-
+**Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?** <br>
+- *There is more variability with successful campaigns because both the variance and standard deviation are high for successful backers. This does make sense because sucessful campaigns can attract a wide range of backers, from small contributors to large ones resulting in a higher variance. Failed campaigns tend to attract fewer backers leading to less variability.* 
 
 # Requirements
 ## Conditional Formatting
@@ -141,5 +144,5 @@ Create a line chart showing the relationship between:
 Using Excel formulas, calculate the following statistics:
 - Mean, Median, Minimum, Maximum, Variance, and Standard Deviation
 
-Provide a brief justification of whether the mean or median better summarizes the data.
-
+**Provide a brief justification of whether the mean or median better summarizes the data.** <br>
+- *The median better summarizes the data to represent the typical number of backers for both successful and failed campaigns. It provides a better representation of the typical number of backers versus the average, or mean,  which could be skewed by a large number of backers on a given day.*
