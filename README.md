@@ -1,7 +1,6 @@
 # 01_excel-challenge
 
 # Deliverable(s)
-
 [Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx)
 
 ## Background
