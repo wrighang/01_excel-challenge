@@ -1,7 +1,14 @@
 # 01_excel-challenge
 
-# Deliverable(s)
-[Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx)
+# Deliverable(s)<br>
+[Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx)<br>
+
+[Create a report in Microsoft Word](https://github.com/wrighang/01_excel-challenge/blob/main/Cowfunding_AngelinaW.docx), and answer the following questions:<br>
+- What are three conclusions that we can draw about crowdfunding campaigns?<br>
+- What are some limitations of this dataset?<br>
+- What are some other possible tables and/or graphs that we could create, and what additional value would they provide?<br>
+
+[Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx)<br>
 
 ## Background
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
@@ -9,7 +16,6 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
 ## Instructions
-
 A table contains a database of 1,000 sample crowdfunding projects.
 
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
@@ -40,14 +46,14 @@ Create a new column named Date Created Conversion that converts the data in laun
 
 Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years. Now, create a pivot-chart line graph that visualizes this new table.
 
-[Create a report in Microsoft Word](https://github.com/wrighang/01_excel-challenge/blob/main/Cowfunding_AngelinaW.docx) , and answer the following questions:
+Create a report in Microsoft Word, and answer the following questions:
 - What are three conclusions that we can draw about crowdfunding campaigns?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-[Crowdfunding Goal Analysis](https://github.com/wrighang/01_excel-challenge/blob/main/CrowdfundingBook_Angelina.xlsx):
+## Crowdfunding Goal Analysis:
 
-Create a new sheet with 8 columns:
+### Create a new sheet with 8 columns:
 - Goal
 - Number Successful
 - Number Failed
@@ -57,7 +63,7 @@ Create a new sheet with 8 columns:
 - Percentage Failed
 - Percentage Canceled
 
-In the Goal column, create 12 rows with the following headers:
+### In the Goal column, create 12 rows with the following headers:
 - Less than 1000
 - 1000 to 4999
 - 5000 to 9999
@@ -97,13 +103,13 @@ Create a new worksheet in your workbook with two columns: one for the number of 
 **Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?** <br>
 - *There is more variability with successful campaigns because both the variance and standard deviation are high for successful backers. This does make sense because sucessful campaigns can attract a wide range of backers, from small contributors to large ones resulting in a higher variance. Failed campaigns tend to attract fewer backers leading to less variability.* 
 
-# Requirements
-## Conditional Formatting
+## Requirements
+### Conditional Formatting
 Apply conditional formatting to the following columns:
 - Outcome
 - Percent Funded
 
-## Column Creation
+### Column Creation
 Create six new columns:
 - Percent Funded
 - Average Donation
@@ -112,7 +118,7 @@ Create six new columns:
 - Date Created (converted format)
 - Date Ended (converted format)
 
-## Pivot Tables and Stacked Column Charts
+### Pivot Tables and Stacked Column Charts
 Create a pivot table showing counts of campaigns by outcome:
 - Outcomes include: successful, failed, canceled, and live
 - Grouped by: Category
@@ -120,7 +126,7 @@ Create a pivot table showing counts of campaigns by outcome:
 Develop a stacked column chart based on this pivot table, with filtering capability by:
 - Country
 
-## Pivot Tables and Line Graphs
+### Pivot Tables and Line Graphs
 Generate a pivot table with the following structure:
 - Rows: Date Created (converted format)
 - Columns: Outcome
@@ -129,19 +135,19 @@ Generate a pivot table with the following structure:
 
 Create a line graph based on this pivot table.
 
-## Written Report
+### Written Report
 Provide a cohesive analysis including:
 - Three conclusions drawn from the data
 - Limitations of the dataset and suggestions for additional tables or graphs
 
-## Crowdfunding Goal Analysis
+### Crowdfunding Goal Analysis
 Calculate the percentage of projects that were successful, failed, or canceled within each goal range.
 
 Create a line chart showing the relationship between:
 - Goal Amount
 - Probability of success, failure, or cancellation
 
-## Statistical Analysis
+### Statistical Analysis
 Using Excel formulas, calculate the following statistics:
 - Mean, Median, Minimum, Maximum, Variance, and Standard Deviation
 
